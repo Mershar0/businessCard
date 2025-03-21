@@ -14,7 +14,7 @@ Este es un proyecto de una tarjeta de negocios digital desarrollada con HTML y C
 ## Cómo usar
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/memastercode-card.git
+   git clone https://github.com/Mershar0/businessCard.git
 2. Abre el archivo index.html en tu navegador.
 
 ## Autor

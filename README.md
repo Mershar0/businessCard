@@ -17,5 +17,11 @@ Este es un proyecto de una tarjeta de negocios digital desarrollada con HTML y C
    git clone https://github.com/tuusuario/memastercode-card.git
 2. Abre el archivo index.html en tu navegador.
 
-Autor
-MeMasterCode
+## Autor
+
+- Nombre: Mershar0
+- GitHub: [Mersha0](github.com/Mershar0)
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE)  para más detalles.
